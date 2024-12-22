@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScienceCraft.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ed5cec20ad3fd98f31eb35fcbef22832c0471bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a36fd2f2983d1ce208eaf49b64faf1c79d419e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScienceCraft.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScienceCraft.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

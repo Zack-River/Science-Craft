@@ -38,12 +38,12 @@ namespace ScienceCraft.Web.Controllers
         [HttpGet]
         public IActionResult Edit(int? id)
         {
-            if(id == null | id == 0)
+            if(id == null || id == 0)
             {
                 return NotFound();
             }
-            var categoryInDb = _context.Categories.Find(id);   
-            return View(categoryInDb);
+            var courseInDb = _context.Courses.Find(id);   
+            return View(courseInDb);
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
