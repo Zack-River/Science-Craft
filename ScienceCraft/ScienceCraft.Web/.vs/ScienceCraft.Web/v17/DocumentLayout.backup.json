@@ -3,36 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Zack River\\Desktop\\Science_Craft\\ScienceCraft\\ScienceCraft.Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|c:\\users\\zack river\\desktop\\science_craft\\sciencecraft\\sciencecraft.web\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|solutionrelative:views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|c:\\users\\zack river\\desktop\\science_craft\\sciencecraft\\sciencecraft.web\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|solutionrelative:views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|c:\\users\\zack river\\desktop\\science_craft\\sciencecraft\\sciencecraft.web\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|solutionrelative:views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|c:\\users\\zack river\\desktop\\science_craft\\sciencecraft\\sciencecraft.web\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|c:\\users\\zack river\\desktop\\science_craft\\sciencecraft\\sciencecraft.web\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|c:\\users\\zack river\\desktop\\science_craft\\sciencecraft\\sciencecraft.web\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|c:\\users\\zack river\\desktop\\science_craft\\sciencecraft\\sciencecraft.web\\views\\shared\\_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|solutionrelative:views\\shared\\_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|c:\\users\\zack river\\desktop\\science_craft\\sciencecraft\\sciencecraft.web\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|solutionrelative:views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|c:\\users\\zack river\\desktop\\science_craft\\sciencecraft\\sciencecraft.web\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|solutionrelative:views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|c:\\users\\zack river\\desktop\\science_craft\\sciencecraft\\sciencecraft.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|c:\\users\\zack river\\desktop\\science_craft\\sciencecraft\\sciencecraft.web\\views\\course\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|solutionrelative:views\\course\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|c:\\users\\zack river\\desktop\\science_craft\\sciencecraft\\sciencecraft.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|c:\\users\\zack river\\desktop\\science_craft\\sciencecraft\\sciencecraft.web\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|solutionrelative:views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|c:\\users\\zack river\\desktop\\science_craft\\sciencecraft\\sciencecraft.web\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|solutionrelative:views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|c:\\users\\zack river\\desktop\\science_craft\\sciencecraft\\sciencecraft.web\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C075D556-A067-4D2E-9603-B1C6BD934D6C}|ScienceCraft.Web.csproj|solutionrelative:views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +46,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "_Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zack River\\Desktop\\Science_Craft\\ScienceCraft\\ScienceCraft.Web\\Views\\Shared\\_Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Zack River\\Desktop\\Science_Craft\\ScienceCraft\\ScienceCraft.Web\\Views\\Shared\\_Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Dashboard.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABADAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T11:23:38.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Zack River\\Desktop\\Science_Craft\\ScienceCraft\\ScienceCraft.Web\\Views\\Course\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Course\\Edit.cshtml",
@@ -54,16 +75,11 @@
               "RelativeToolTip": "Views\\Course\\Edit.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-23T10:52:21.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+              "WhenOpened": "2024-12-23T10:52:21.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Zack River\\Desktop\\Science_Craft\\ScienceCraft\\ScienceCraft.Web\\Views\\Course\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Course\\Details.cshtml",
@@ -75,58 +91,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Zack River\\Desktop\\Science_Craft\\ScienceCraft\\ScienceCraft.Web\\Views\\Course\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Course\\Delete.cshtml",
               "ToolTip": "C:\\Users\\Zack River\\Desktop\\Science_Craft\\ScienceCraft\\ScienceCraft.Web\\Views\\Course\\Delete.cshtml",
               "RelativeToolTip": "Views\\Course\\Delete.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAYwCQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-22T23:23:33.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\Zack River\\Desktop\\Science_Craft\\ScienceCraft\\ScienceCraft.Web\\Models\\Course.cs",
               "RelativeDocumentMoniker": "Models\\Course.cs",
               "ToolTip": "C:\\Users\\Zack River\\Desktop\\Science_Craft\\ScienceCraft\\ScienceCraft.Web\\Models\\Course.cs",
               "RelativeToolTip": "Models\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T21:44:40.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Zack River\\Desktop\\Science_Craft\\ScienceCraft\\ScienceCraft.Web\\Views\\Course\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Course\\Create.cshtml",
               "ToolTip": "C:\\Users\\Zack River\\Desktop\\Science_Craft\\ScienceCraft\\ScienceCraft.Web\\Views\\Course\\Create.cshtml",
               "RelativeToolTip": "Views\\Course\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswCAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-22T19:42:04.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "CourseController.cs",
               "DocumentMoniker": "C:\\Users\\Zack River\\Desktop\\Science_Craft\\ScienceCraft\\ScienceCraft.Web\\Controllers\\CourseController.cs",
               "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
               "ToolTip": "C:\\Users\\Zack River\\Desktop\\Science_Craft\\ScienceCraft\\ScienceCraft.Web\\Controllers\\CourseController.cs",
               "RelativeToolTip": "Controllers\\CourseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T19:31:44.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Zack River\\Desktop\\Science_Craft\\ScienceCraft\\ScienceCraft.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -134,20 +150,20 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAB8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-22T17:43:10.989Z"
+              "WhenOpened": "2024-12-22T17:43:10.989Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Zack River\\Desktop\\Science_Craft\\ScienceCraft\\ScienceCraft.Web\\Views\\Course\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Course\\Index.cshtml",
               "ToolTip": "C:\\Users\\Zack River\\Desktop\\Science_Craft\\ScienceCraft\\ScienceCraft.Web\\Views\\Course\\Index.cshtml",
               "RelativeToolTip": "Views\\Course\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-22T13:05:59.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T13:05:59.551Z"
             }
           ]
         }

@@ -345,3 +345,4 @@ C:\Users\Zack River\Desktop\Science_Craft\ScienceCraft\ScienceCraft.Web\obj\Debu
 C:\Users\Zack River\Desktop\Science_Craft\ScienceCraft\ScienceCraft.Web\obj\Debug\net8.0\ScienceCraft.Web.pdb
 C:\Users\Zack River\Desktop\Science_Craft\ScienceCraft\ScienceCraft.Web\obj\Debug\net8.0\ScienceCraft.Web.genruntimeconfig.cache
 C:\Users\Zack River\Desktop\Science_Craft\ScienceCraft\ScienceCraft.Web\obj\Debug\net8.0\ref\ScienceCraft.Web.dll
+C:\Users\Zack River\Desktop\Science_Craft\ScienceCraft\ScienceCraft.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Dashboard.cshtml.rz.scp.css

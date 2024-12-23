@@ -15,7 +15,7 @@ namespace ScienceCraft.Web.Models
         public string Description { get; set; } = "No Description";
 
         [Required]
-        public string? Image {  get; set; }
+        public string Image { get; set; } = "No Image";
 
         [Required]
         public bool Approval { get; set; } = false;
