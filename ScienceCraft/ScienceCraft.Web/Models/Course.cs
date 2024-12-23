@@ -12,10 +12,13 @@ namespace ScienceCraft.Web.Models
         public string Name { get; set; }
 
         [Required]
-        public string Description { get; set; }
+        public string Description { get; set; } = "No Description";
 
         [Required]
-        public bool Status { get; set; }
+        public bool Approval { get; set; } = false;
+
+        public string Status { get; set; } = "Pending";
+
 
         ICollection<Session> sessions { get; set; }
     }

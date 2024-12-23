@@ -4,27 +4,38 @@
 }
 
 <h3>Course List</h3>
+<a asp-action="Create" asp-controller="Course" class="btn btn-primary">Create</a>
 <table class="table table-hover" width="100%">
     <tr>
-        <td>Id</td>
         <td>Name</td>
         <td>Description</td>
         <td>Status</td>
+        <td>Actions</td>
     </tr>
     @foreach (var item in Model)
     {
         <tr>
-            <td>@item.Id</td>
-            <td>@item.Name</td>
+            <td><a href="/Course/Details/@item.Id" style="text-decoration: none; color: inherit; font-weight: bold;">@item.Name</a></td>
             <td>@item.Description</td>
-            @if(item.Status)
+            @if(item.Approval)
             {
-                <td style="color: green;">Approved</td>
+                @if (item.Status == "Approved")
+                {
+                    <td style="color: green;">@item.Status</td>
+                }
+                else
+                {
+                    <td style="color: red;">@item.Status</td>
+                }
             }
             else
             {
-                <td style="color: red;">Cancelled</td>
+                <td style="color: grey;">Pending</td>
             }
+            <td>
+            <a href="/Course/Edit/@item.Id" class="btn btn-warning">Edit</a>
+            <a href="/Course/Edit/@item.Id" class="btn btn-danger">Delete</a>
+            </td>
         </tr>
     }
 </table>

@@ -1,19 +1,17 @@
 ﻿@model Course
 @{
-    ViewData["Title"] = "Edit-Course";
+    ViewData["Title"] = "Create-Course";
 }
 <!--HTML code HERE-->
-<h1>Edit</h1>
+<h1>Create</h1>
 <h4>Course</h4>
 <hr />
 <div class="row">
     <div class="mb-3 col-md-4">
-        <form asp-action="Edit" method="post">
-            <input hidden asp-for="Id" />
-            <div asp-validation-summary="ModelOnly" class=" text-danger"></div>
+        <form asp-action="Create" method="post">
             <div class="form-group">
                 <label asp-for="Name">Name</label>
-                <input asp-for="Name" class="form-control"/>
+                <input asp-for="Name" class="form-control" />
                 <span asp-validation-for="Name" class="text-danger"></span>
             </div>
             <div class="form-group">
@@ -21,16 +19,15 @@
                 <input asp-for="Description" class="form-control" />
                 <span asp-validation-for="Description" class="text-danger"></span>
             </div>
-            <div>
-                <input type="submit" value="Save" class="btn btn-success" />
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Create</button>
                 <a asp-action="Index" asp-controller="Course" class="btn btn-secondary">Back</a>
             </div>
         </form>
     </div>
-
 </div>
 <!---->
 
-@section Scripts {
+@section Scripts{
     <partial name="_ValidationScriptsPartial" />
 }

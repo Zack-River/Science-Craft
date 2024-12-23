@@ -18,13 +18,13 @@ namespace ScienceCraft.Web.Controllers
         }
 
         [HttpGet]
-        public IActionResult Add()
+        public IActionResult Create()
         {
             return View();
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Add(Course course)
+        public IActionResult Create(Course course)
         {
             if (ModelState.IsValid)
             {
@@ -47,29 +47,61 @@ namespace ScienceCraft.Web.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Edit()
+        public IActionResult Edit(Course course)
         {
-            
-            return RedirectToAction("Index");
+            if (ModelState.IsValid)
+            {
+                _context.Courses.Update(course);
+                _context.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View(course);
         }
 
         [HttpGet]
         public IActionResult Delete(int? id)
         {
-            if (id == null | id == 0)
+            if (id == null || id == 0)
             {
                 return NotFound();
             }
-            var categoryInDb = _context.Categories.Find(id);
-            return View(categoryInDb);
+
+            var CourseInDb = _context.Courses.Find(id);
+            if (CourseInDb == null)
+            {
+                return NotFound();
+            }
+            return View(CourseInDb);
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Delete(Course course)
+        public IActionResult DeleteCourse(int? id)
         {
-            return View();
+            var CourseInDb = _context.Courses.Find(id);
+            if (CourseInDb == null)
+            {
+                NotFound();
+            }
+            _context.Courses.Remove(CourseInDb);
+            _context.SaveChanges();
+            return RedirectToAction("Index");
         }
 
+        [HttpGet]
+        public IActionResult Details(int? id)
+        {
+            if (id == null || id == 0)
+            {
+                return NotFound();
+            }
+
+            var CourseInDb = _context.Courses.Find(id);
+            if (CourseInDb == null)
+            {
+                return NotFound();
+            }
+            return View(CourseInDb);
+        }
 
     }
 }

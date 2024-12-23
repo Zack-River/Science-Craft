@@ -40,7 +40,7 @@ namespace ScienceCraft.Web.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Categories");
+                    b.ToTable("Categories", (string)null);
                 });
 
             modelBuilder.Entity("ScienceCraft.Web.Models.Course", b =>
@@ -65,7 +65,7 @@ namespace ScienceCraft.Web.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Courses");
+                    b.ToTable("Courses", (string)null);
                 });
 
             modelBuilder.Entity("ScienceCraft.Web.Models.Employee", b =>
@@ -104,7 +104,7 @@ namespace ScienceCraft.Web.Migrations
 
                     b.HasIndex("RoleId");
 
-                    b.ToTable("Employees");
+                    b.ToTable("Employees", (string)null);
                 });
 
             modelBuilder.Entity("ScienceCraft.Web.Models.Kit", b =>
@@ -129,7 +129,7 @@ namespace ScienceCraft.Web.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Kits");
+                    b.ToTable("Kits", (string)null);
                 });
 
             modelBuilder.Entity("ScienceCraft.Web.Models.Order", b =>
@@ -168,7 +168,7 @@ namespace ScienceCraft.Web.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Orders");
+                    b.ToTable("Orders", (string)null);
                 });
 
             modelBuilder.Entity("ScienceCraft.Web.Models.Role", b =>
@@ -186,7 +186,7 @@ namespace ScienceCraft.Web.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Roles");
+                    b.ToTable("Roles", (string)null);
                 });
 
             modelBuilder.Entity("ScienceCraft.Web.Models.Service", b =>
@@ -210,7 +210,7 @@ namespace ScienceCraft.Web.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Services");
+                    b.ToTable("Services", (string)null);
                 });
 
             modelBuilder.Entity("ScienceCraft.Web.Models.Session", b =>
@@ -253,7 +253,7 @@ namespace ScienceCraft.Web.Migrations
 
                     b.HasIndex("KitId");
 
-                    b.ToTable("Sessions");
+                    b.ToTable("Sessions", (string)null);
                 });
 
             modelBuilder.Entity("ScienceCraft.Web.Models.Supplier", b =>
@@ -274,7 +274,7 @@ namespace ScienceCraft.Web.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Suppliers");
+                    b.ToTable("Suppliers", (string)null);
                 });
 
             modelBuilder.Entity("ScienceCraft.Web.Models.Supply", b =>
@@ -310,7 +310,7 @@ namespace ScienceCraft.Web.Migrations
 
                     b.HasIndex("SupplierId");
 
-                    b.ToTable("Supplies");
+                    b.ToTable("Supplies", (string)null);
                 });
 
             modelBuilder.Entity("ScienceCraft.Web.Models.Employee", b =>

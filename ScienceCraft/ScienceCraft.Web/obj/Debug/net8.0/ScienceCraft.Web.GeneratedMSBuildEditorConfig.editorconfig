@@ -26,12 +26,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Zack River\Desktop\Science_Craft\ScienceCraft\ScienceCraft.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Zack River/Desktop/Science_Craft/ScienceCraft/ScienceCraft.Web/Views/Course/Add.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEFkZC5jc2h0bWw=
+[C:/Users/Zack River/Desktop/Science_Craft/ScienceCraft/ScienceCraft.Web/Views/Course/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Zack River/Desktop/Science_Craft/ScienceCraft/ScienceCraft.Web/Views/Course/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zack River/Desktop/Science_Craft/ScienceCraft/ScienceCraft.Web/Views/Course/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Zack River/Desktop/Science_Craft/ScienceCraft/ScienceCraft.Web/Views/Course/Edit.cshtml]
