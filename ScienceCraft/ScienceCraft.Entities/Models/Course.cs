@@ -12,11 +12,20 @@ namespace ScienceCraft.Entities.Models
         public string Name { get; set; }
 
         [Required]
-        public string Description { get; set; }
+        public string Description { get; set; } = "No Description";
 
         [Required]
-        public bool Status { get; set; }
+        public DateTime CreatedTime { get; set; } = DateTime.Now;
 
-        ICollection<Session> sessions { get; set; }
+        [Required]
+        public DateTime LastModified { get; set; } = DateTime.Now;
+
+        [Required]
+        public string Image { get; set; } = "No Image";
+
+        [Required]
+        public bool Approval { get; set; } = false;
+
+        public string Status { get; set; } = "Pending";
     }
 }

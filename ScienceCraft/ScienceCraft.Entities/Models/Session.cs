@@ -15,7 +15,11 @@ namespace ScienceCraft.Entities.Models
         public string Description { get; set; } = string.Empty;
 
         [Required]
-        public DateTime Date { get; set; } = DateTime.Now;
+        public DateTime CreatedTime { get; set; } = DateTime.Now;
+        public DateTime LastModified { get; set; } = DateTime.Now;
+
+        [Required]
+        public string Content {  get; set; } = string.Empty;
 
 
         public int KitId { get; set; } = 0;

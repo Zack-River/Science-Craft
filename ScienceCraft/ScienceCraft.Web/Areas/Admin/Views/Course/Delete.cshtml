@@ -1,0 +1,37 @@
+﻿@model Course
+@{
+    ViewData["Title"] = "Delete-Course";
+    ViewData["PageTitle"] = "Course";
+    ViewData["Header"] = "Delete Course";
+    Layout = "_Dashboard";
+}
+<!--HTML code HERE-->
+
+<div class="row">
+    <div class="mb-3 col-md-4">
+        <form asp-action="DeleteCourse" method="post">
+            <input hidden asp-for="Id" />
+            <div asp-validation-summary="ModelOnly" class=" text-danger"></div>
+            <div class="mb-3 form-group">
+                <label asp-for="Name" class="control-label">Name</label>
+                <input asp-for="Name" disabled class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="mb-3 form-group">
+                <label asp-for="Description" class="control-label">Description</label>
+                <input asp-for="Description" disabled class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="mb-3 form-group">
+                <input type="submit" value="Delete" class="btn btn-danger" />
+                <a asp-area="Admin" asp-controller="Course" asp-action="Index" class="btn btn-secondary">Back</a>
+            </div>
+        </form>
+    </div>
+
+</div>
+
+<!---->
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScienceCraft.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eecc4e6aaf9d7981b743a2f5fc78db14f9b99259")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dc197a839879dca92b70abb8cca626b991cfe70")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScienceCraft.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScienceCraft.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -5,6 +5,10 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScienceCraft.Web", "ScienceCraft.Web.csproj", "{C075D556-A067-4D2E-9603-B1C6BD934D6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScienceCraft.DataAccess", "..\ScienceCraft.DataAccess\ScienceCraft.DataAccess.csproj", "{CBE8DE3D-BD49-44E7-8F2F-D072995A51B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScienceCraft.Entities", "..\ScienceCraft.Entities\ScienceCraft.Entities.csproj", "{987C5BF4-CB6C-4388-8FCA-EEDFFBF77167}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C075D556-A067-4D2E-9603-B1C6BD934D6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C075D556-A067-4D2E-9603-B1C6BD934D6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C075D556-A067-4D2E-9603-B1C6BD934D6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE8DE3D-BD49-44E7-8F2F-D072995A51B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE8DE3D-BD49-44E7-8F2F-D072995A51B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE8DE3D-BD49-44E7-8F2F-D072995A51B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE8DE3D-BD49-44E7-8F2F-D072995A51B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{987C5BF4-CB6C-4388-8FCA-EEDFFBF77167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987C5BF4-CB6C-4388-8FCA-EEDFFBF77167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987C5BF4-CB6C-4388-8FCA-EEDFFBF77167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987C5BF4-CB6C-4388-8FCA-EEDFFBF77167}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScienceCraft.Entities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ed5cec20ad3fd98f31eb35fcbef22832c0471bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dc197a839879dca92b70abb8cca626b991cfe70")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScienceCraft.Entities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScienceCraft.Entities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

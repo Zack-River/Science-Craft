@@ -1,0 +1,13 @@
+C:\Users\Zack River\Desktop\Science_Craft\ScienceCraft\ScienceCraft.Entities\bin\Debug\net8.0\ScienceCraft.Entities.deps.json
+C:\Users\Zack River\Desktop\Science_Craft\ScienceCraft\ScienceCraft.Entities\bin\Debug\net8.0\ScienceCraft.Entities.dll
+C:\Users\Zack River\Desktop\Science_Craft\ScienceCraft\ScienceCraft.Entities\bin\Debug\net8.0\ScienceCraft.Entities.pdb
+C:\Users\Zack River\Desktop\Science_Craft\ScienceCraft\ScienceCraft.Entities\obj\Debug\net8.0\ScienceCraft.Entities.csproj.AssemblyReference.cache
+C:\Users\Zack River\Desktop\Science_Craft\ScienceCraft\ScienceCraft.Entities\obj\Debug\net8.0\ScienceCraft.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zack River\Desktop\Science_Craft\ScienceCraft\ScienceCraft.Entities\obj\Debug\net8.0\ScienceCraft.Entities.AssemblyInfoInputs.cache
+C:\Users\Zack River\Desktop\Science_Craft\ScienceCraft\ScienceCraft.Entities\obj\Debug\net8.0\ScienceCraft.Entities.AssemblyInfo.cs
+C:\Users\Zack River\Desktop\Science_Craft\ScienceCraft\ScienceCraft.Entities\obj\Debug\net8.0\ScienceCraft.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Zack River\Desktop\Science_Craft\ScienceCraft\ScienceCraft.Entities\obj\Debug\net8.0\ScienceCraft.Entities.sourcelink.json
+C:\Users\Zack River\Desktop\Science_Craft\ScienceCraft\ScienceCraft.Entities\obj\Debug\net8.0\ScienceCraft.Entities.dll
+C:\Users\Zack River\Desktop\Science_Craft\ScienceCraft\ScienceCraft.Entities\obj\Debug\net8.0\refint\ScienceCraft.Entities.dll
+C:\Users\Zack River\Desktop\Science_Craft\ScienceCraft\ScienceCraft.Entities\obj\Debug\net8.0\ScienceCraft.Entities.pdb
+C:\Users\Zack River\Desktop\Science_Craft\ScienceCraft\ScienceCraft.Entities\obj\Debug\net8.0\ref\ScienceCraft.Entities.dll

@@ -1,0 +1,32 @@
+﻿@model Course
+@{
+    ViewData["Title"] = "Create-Course";
+    ViewData["PageTitle"] = "Course";
+    ViewData["Header"] = "Create Course";
+    Layout = "_Dashboard";
+}
+<!--HTML code HERE-->
+<div class="row">
+    <div class="mb-3 col-md-4">
+        <form asp-action="Create" method="post">
+            <div class="mb-3 form-group">
+                <label asp-for="Name">Name</label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="mb-3 form-group">
+                <label asp-for="Description">Description</label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="mb-3 form-group">
+                <button type="submit" class="btn btn-primary">Create</button>
+                <a asp-area="Admin" asp-controller="Course" asp-action="Index" class="btn btn-secondary">Back</a>
+            </div>
+        </form>
+    </div>
+</div>
+<!---->
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
